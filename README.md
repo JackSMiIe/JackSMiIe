@@ -30,6 +30,16 @@ Python Developer с практическим опытом в разработк�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80" title="Linux" style="margin:10px; border:3px solid #ff1493; border-radius:12px; box-shadow: 0 0 15px #ff1493;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="80" height="80" title="Pytest" style="margin:10px; border:3px solid #9400d3; border-radius:12px; box-shadow: 0 0 15px #9400d3;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="80" height="80" title="Docker" style="margin:10px; border:3px solid #00bfff; border-radius:12px; box-shadow: 0 0 15px #00bfff;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" height="80" title="Node.js" style="margin:10px; border:3px solid #3c873a; border-radius:12px; box-shadow: 0 0 15px #3c873a;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" height="80" title="TypeScript" style="margin:10px; border:3px solid #007acc; border-radius:12px; box-shadow: 0 0 15px #007acc;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="80" height="80" title="FastAPI" style="margin:10px; border:3px solid #009688; border-radius:12px; box-shadow: 0 0 15px #009688;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="80" height="80" title="SQLAlchemy" style="margin:10px; border:3px solid #a2b86c; border-radius:12px; box-shadow: 0 0 15px #a2b86c;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="80" height="80" title="Bootstrap" style="margin:10px; border:3px solid #7952b3; border-radius:12px; box-shadow: 0 0 15px #7952b3;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="80" height="80" title="Telegram" style="margin:10px; border:3px solid #0088cc; border-radius:12px; box-shadow: 0 0 15px #0088cc;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="80" height="80" title="VSCode" style="margin:10px; border:3px solid #0078d7; border-radius:12px; box-shadow: 0 0 15px #0078d7;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="80" height="80" title="PyCharm" style="margin:10px; border:3px solid #000000; border-radius:12px; box-shadow: 0 0 15px #000000;" />  
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" width="80" height="80" title="WireGuard" style="margin:10px; border:3px solid #4CAF50; border-radius:12px; box-shadow: 0 0 15px #4CAF50;" />
+
 </p>
 
 ---
